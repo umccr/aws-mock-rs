@@ -1,5 +1,5 @@
 # AWS mocking examples
 
-Following the fractioned guide on https://docs.aws.amazon.com/sdk-for-rust/latest/dg/testing.html
+This repo follows the AWS SDK for Rust guide on Mocking from  https://docs.aws.amazon.com/sdk-for-rust/latest/dg/testing.html
 
-I don't like examples or writeups that do not compile, contain deprecations or errors.
+The idea here is to assist on improving developer onboarding into mock testing by avoiding to follow documentation that does not have `use` statements, `Cargo.toml` and other general setup to get started fast and have working code from `git clone` to `cargo run`.
